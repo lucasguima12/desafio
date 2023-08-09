@@ -1,0 +1,534 @@
+account_code,account_suitability,asset_name,asset_cnpj,class_name,position_value
+65547,moderado,CDB PRE DU CDB120CAG00,,Renda Fixa Pré-Fixada,133886.22
+65547,moderado,CDB PRE DU CDB320A2QHT,,Renda Fixa Pré-Fixada,61127.1703
+65547,moderado,CDB PRE DU CDB420IBE9D,,Renda Fixa Pré-Fixada,206855.5322
+65547,moderado,CDB PRE DU CDB321ALNBI,,Renda Fixa Pré-Fixada,47910.6903
+65547,moderado,LCI PRE 21K00148900,,Renda Fixa Pré-Fixada,71442.6276
+65547,moderado,LCI PRE 21K00968252,,Renda Fixa Pré-Fixada,26703.9693
+65547,moderado,LCA 22D01211636,,Renda Fixa Pós-Fixada,121570.1789
+65547,moderado,LCA 22D00645296,,Renda Fixa Pós-Fixada,74711.1683
+65547,moderado,LCA 22D00638373,,Renda Fixa Pós-Fixada,3349.0873
+65547,moderado,CDB FLU CDB1234T4ES,,Renda Fixa Pós-Fixada,99517.8455
+65547,moderado,LCI 23C00171460,,Renda Fixa Pós-Fixada,31241.7704
+65547,moderado,CDB FLU CDB1203K0PG,,Renda Fixa Inflação,212142.3191
+65547,moderado,CRA FLU CRA020001US,,Renda Fixa Inflação,66562.1827
+65547,moderado,CRA FLU CRA020001US,,Renda Fixa Inflação,7863894
+65547,moderado,CRA FLU CRA020003KB,,Renda Fixa Inflação,314005.2281
+65547,moderado,CDB FLU CDB221KACV7,,Renda Fixa Inflação,66000.1669
+65547,moderado,CDB FLU CDB321DQESN,,Renda Fixa Inflação,24965.4513
+65547,moderado,CDB FLU CDB421EAIFR,,Renda Fixa Inflação,97858.0721
+65547,moderado,CDB FLU CDB1220M14T,,Renda Fixa Inflação,127230.8122
+65547,moderado,NTN-B 760199,,Renda Fixa Inflação,63674.0309
+65547,moderado,CRI 22B0004808,,Renda Fixa Inflação,64222.9339
+55836,moderado,CDB PRE DU CDB4200AJBO,,Renda Fixa Pré-Fixada,62034.2151
+55836,moderado,CDB PRE DU CDB420J5QL3,,Renda Fixa Pré-Fixada,35869.1149
+55836,moderado,CDB PRE DU CDB3213NAT7,,Renda Fixa Pré-Fixada,51497.6855
+55836,moderado,LCI PRE 21K00148900,,Renda Fixa Pré-Fixada,5855.9531
+55836,moderado,CDB FLU CDB1197EYZU,,Renda Fixa Inflação,40693.2283
+55836,moderado,CDB FLU CDB1203Q6NZ,,Renda Fixa Inflação,71044.5125
+55836,moderado,CDB FLU CDB120B95WB,,Renda Fixa Inflação,33918.2381
+55836,moderado,DEB FLU U ENEV26,,Renda Fixa Inflação,127611.6474
+55836,moderado,CDB FLU CDB1216K2T1,,Renda Fixa Inflação,31017.6854
+55836,moderado,DEB FLU U RUMOB5,,Renda Fixa Inflação,92034.3263
+55836,moderado,CRA FLU CRA020003PY,,Renda Fixa Inflação,67700.6075
+55836,moderado,DEB FLU U LORTA7,,Renda Fixa Inflação,70103916
+55836,moderado,LF FLU LF0021007RJ,,Renda Fixa Inflação,62874.2336
+55836,moderado,CDB FLU CDB221JZDNE,,Renda Fixa Inflação,84093.1921
+55836,moderado,CRA FLU CRA021001VA,,Renda Fixa Inflação,54841.6732
+55836,moderado,CDB FLU CDB321CGU1J,,Renda Fixa Inflação,112318562
+55836,moderado,NTN-B 760199,,Renda Fixa Inflação,16823.9158
+55836,moderado,CDB FLU CDB421CS1Z8,,Renda Fixa Inflação,76666.2572
+55836,moderado,CDB FLU CDB421EAIFR,,Renda Fixa Inflação,52509.2094
+55836,moderado,NTN-B 760199,,Renda Fixa Inflação,81198.1482
+55836,moderado,NTN-B 760199,,Renda Fixa Inflação,49039.4595
+55836,moderado,NTN-B 760199,,Renda Fixa Inflação,94074.8686
+55836,moderado,NTN-B 760199,,Renda Fixa Inflação,57852.8402
+18073,moderado-conservador,NTN-B 760199,,Renda Fixa Inflação,39193.4114
+18073,moderado-conservador,CRA FLU CRA020003KB,,Renda Fixa Inflação,48872409
+18073,moderado-conservador,DEB FLU U RUMOB5,,Renda Fixa Inflação,20319.2668
+18073,moderado-conservador,CDB FLU CDB121EJLJ6,,Renda Fixa Inflação,38927.6251
+18073,moderado-conservador,CRA FLU CRA021001VA,,Renda Fixa Inflação,15995488
+18073,moderado-conservador,DEB FLU U LCAMD1,,Renda Fixa Inflação,16788.2482
+18073,moderado-conservador,NTN-B 760199,,Renda Fixa Inflação,30684.0162
+7826,moderado-conservador,LTN 100000,,Renda Fixa Pré-Fixada,20735.1778
+7826,moderado-conservador,NTN-B 760199,,Renda Fixa Inflação,21466.9702
+2429,moderado,CDB PRE DU CDB122DP2ZX,,Renda Fixa Pré-Fixada,148965.5098
+2429,moderado,CDB PRE DU CDB122E1Y4T,,Renda Fixa Pré-Fixada,147907.0299
+2429,moderado,CRI 21K0001812,,Renda Fixa Inflação,134559.3805
+2429,moderado,CRI 21K0001807,,Renda Fixa Inflação,133943599
+2429,moderado,CDB FLU CDB122DP4IN,,Renda Fixa Inflação,114034.3187
+2429,moderado,NTN-B 760199,,Renda Fixa Inflação,49084.2659
+2429,moderado,CRA FLU CRA022004MS,,Renda Fixa Inflação,25263.7928
+2429,moderado,NTN-B 760199,,Renda Fixa Inflação,43581.6333
+66740,moderado-conservador,CDB PRE DU CDB222LA152,,Renda Fixa Pré-Fixada,3338.6778
+66740,moderado-conservador,CDB PRE DU CDB2227LG74,,Renda Fixa Pré-Fixada,6728.2282
+66740,moderado-conservador,LCA 21F01104797,,Renda Fixa Inflação,5992.3462
+66740,moderado-conservador,LCA 21G00651230,,Renda Fixa Inflação,11896.9575
+6777,moderado-conservador,CDB PRE DU CDB2228O0DP,,Renda Fixa Pré-Fixada,11249.1044
+6777,moderado-conservador,LCI PRE 23C00117556,,Renda Fixa Pré-Fixada,7050.7843
+6777,moderado-conservador,NTN-B 760199,,Renda Fixa Inflação,22007.9986
+60648,,CDB PRE DU CDB322HFS5R,,Renda Fixa Pré-Fixada,32332.92
+60648,,CDB PRE DU CDB322HFSNX,,Renda Fixa Pré-Fixada,64999568
+55101,moderado,DEB FLU U LCAMD1,,Renda Fixa Inflação,29595.0025
+58230,moderado-conservador,CDB PRE DU CDB320I3T7I,,Renda Fixa Pré-Fixada,61914.6839
+58230,moderado-conservador,CDB PRE DU CDB3213WEPX,,Renda Fixa Pré-Fixada,71849.2366
+58230,moderado-conservador,CDB PRE DU CDB321DQERJ,,Renda Fixa Pré-Fixada,65115.7776
+58230,moderado-conservador,CDB PRE DU CDB321EB2U6,,Renda Fixa Pré-Fixada,18058.1271
+58230,moderado-conservador,CDB FLU CDB2202Z16F,,Renda Fixa Inflação,218733.8668
+58230,moderado-conservador,CRA FLU CRA020001US,,Renda Fixa Inflação,86139.2953
+58230,moderado-conservador,NTN-B 760199,,Renda Fixa Inflação,95183.9992
+58230,moderado-conservador,CDB FLU CDB221L4JBW,,Renda Fixa Inflação,113467.3111
+58230,moderado-conservador,NTN-B 760199,,Renda Fixa Inflação,18192.5803
+58230,moderado-conservador,NTN-B 760199,,Renda Fixa Inflação,23215.1292
+46744,moderado-agressivo,LTN 100000,,Renda Fixa Pré-Fixada,828.0946
+46744,moderado-agressivo,LTN 100000,,Renda Fixa Pré-Fixada,1652.5251
+47497,moderado-conservador,CDB PRE DU CDB321DHHVC,,Renda Fixa Pré-Fixada,11901.5155
+47497,moderado-conservador,CRA FLU CRA021000GU,,Renda Fixa Inflação,12063.5915
+47497,moderado-conservador,CRA FLU CRA020002H1,,Renda Fixa Inflação,11856.6348
+72740,moderado,CDB FLU CDB122CRWV9,,Renda Fixa Pós-Fixada,232890.7971
+72740,moderado,CDB FLU CDB422O6J6T,,Renda Fixa Pós-Fixada,239390.1172
+72740,moderado,CDB FLU CDB422O6MDB,,Renda Fixa Pós-Fixada,239660.0321
+72740,moderado,CDB FLU CDB422P6OXM,,Renda Fixa Pós-Fixada,239306.2094
+72740,moderado,CDB FLU CDB422PQ2H7,,Renda Fixa Pós-Fixada,239088.2359
+72740,moderado,CDB FLU CDB422PQ2QD,,Renda Fixa Pós-Fixada,51028.0575
+72740,moderado,CDB FLU CDB422PQ39H,,Renda Fixa Pós-Fixada,239174.4182
+72740,moderado,CDB FLU CDB1231X498,,Renda Fixa Pós-Fixada,84581.5861
+72740,moderado,CDB FLU CDB1235BHHV,,Renda Fixa Pós-Fixada,14386529
+72740,moderado,CDB FLU CDB1238YDU3,,Renda Fixa Pós-Fixada,60245.5415
+72740,moderado,NTN-B 760199,,Renda Fixa Inflação,999076513
+49232,moderado-conservador,LF FLU LF002100BU5,,Renda Fixa Inflação,122801.1005
+49232,moderado-conservador,DEB FLU U LCAMD1,,Renda Fixa Inflação,205197.0366
+32263,moderado-conservador,LCI PRE 23C00306848,,Renda Fixa Pré-Fixada,8055431
+32263,moderado-conservador,NTN-B 760199,,Renda Fixa Inflação,267059542
+32263,moderado-conservador,CDB FLU CDB122MA25U,,Renda Fixa Inflação,290420.5172
+32263,moderado-conservador,CDB FLU CDB222FZGA9,,Renda Fixa Inflação,7589.5117
+76497,moderado,LCA PRE 22K01422287,,Renda Fixa Pré-Fixada,1043.1733
+76497,moderado,LCA 23B00535132,,,3037.7699
+76497,moderado,CDB FLU CDB421G29TH,,,2319536
+76497,moderado,CDB FLU CDB421G29TF,,,6967.2544
+46168,moderado,CDB FLU CDB2227XCDE,,Renda Fixa Inflação,3316.8521
+46168,moderado,NTN-B 760199,,Renda Fixa Inflação,8256.9438
+56165,moderado-agressivo,CDB PRE DU CDB322FAXTQ,,Renda Fixa Pré-Fixada,14129.0099
+56165,moderado-agressivo,CDB FLU CDB322FAXTZ,,Renda Fixa Pós-Fixada,79051.7676
+56165,moderado-agressivo,CDB FLU CDB123BU53T,,Renda Fixa Pós-Fixada,3062.2652
+56165,moderado-agressivo,LCA 23B00241563,,Renda Fixa Pós-Fixada,2032.6018
+56165,moderado-agressivo,CDB FLU CDB123H91A0,,Renda Fixa Pós-Fixada,1014.4079
+56165,moderado-agressivo,NTN-B 760199,,Renda Fixa Inflação,12850.5681
+56165,moderado-agressivo,CDB FLU CDB123K7A6G,,Renda Fixa Inflação,2024.2656
+56165,moderado-agressivo,CDB FLU CDB123MT96I,,Renda Fixa Inflação,2017.7271
+82356,conservador,LTN 100000,,Renda Fixa Pré-Fixada,4945.8398
+82356,conservador,LTN 100000,,Renda Fixa Pré-Fixada,26499.0269
+82356,conservador,NTN-B 760199,,Renda Fixa Inflação,8609.3442
+82356,conservador,NTN-B 760199,,Renda Fixa Inflação,8385.8463
+73707,moderado-agressivo,LCA 22L00056616,,,3116184
+20921,agressivo,LCI PRE 23A00125741,,,11283.3377
+20921,agressivo,CDB FLU CDB1230XR9F,,,11392.0206
+32449,moderado-conservador,LCA PRE 23C01237215,,Renda Fixa Pré-Fixada,9038.9607
+32449,moderado-conservador,CDB FLU CDB123O1RLA,,Renda Fixa Inflação,21145.1961
+65547,moderado,Trend Investback FIC FIRF Simples,,Renda Fixa Pós-Fixada,342.07
+65547,moderado,VLGI Asset DI FIRF CP,47729760000106.0,Reserva de Liquidez,60624.77
+65547,moderado,CLUBE DE INVESTIMENTO PARAGON SISTEMÁTICO 1,47775567000101.0,Renda Variável,53337.94
+65547,moderado,XP Private Equity Classe A - Trend PE I FIC FIRF Simples,,Alternativos,18467.2
+65547,moderado,XP Private Equity I FIP Multiestratégia,21523833000107.0,Alternativos,181736.39
+65547,moderado,XP Special Opportunities FIP Classe A - Trend PE VIII FIC FIRF Simples,,Alternativos,69412.44
+65547,moderado,XP Special Opportunities FIP Multiestratégia,43120744000152.0,Alternativos,23562.08
+65547,moderado,XP Crédito Agro - XPAG11,,Renda Variável,60000.0
+55836,moderado,Vinland RF Ativo Advisory LP FIC FI,34687441000125.0,Renda Fixa Pós-Fixada,15042.09
+55836,moderado,Ibiuna Credit FIC FIM CP,37310657000165.0,Renda Fixa Pós-Fixada,23180.32
+55836,moderado,Selection RF High Yield FIC FIM CP Longo Prazo,34957512000162.0,Renda Fixa Pós-Fixada,7930.08
+55836,moderado,Trend Investback FIC FIRF Simples,,Renda Fixa Pós-Fixada,148.7
+55836,moderado,VLGI Asset DI FIRF CP,47729760000106.0,Reserva de Liquidez,11533.77
+55836,moderado,Absolute Vertex Advisory FIC FIM,28947266000165.0,Multimercado,79927.81
+55836,moderado,Bahia AM Maraú Advisory FIC FIM,28747733000103.0,Multimercado,97512.01
+55836,moderado,Vinland Macro Advisory FIC FIM,28581109000189.0,Multimercado,3149.99
+55836,moderado,Occam Retorno Absoluto Advisory FIC FIM,34475592000110.0,Multimercado,9561.25
+55836,moderado,XP Special Opportunities FIP Classe A - Trend PE VIII FIC FIRF Simples,,Alternativos,69486.71
+55836,moderado,XP Special Opportunities FIP Multiestratégia,43120744000152.0,Alternativos,23562.08
+55836,moderado,Headline XP VC 3 FIP Multiestratégia Classe A - Trend PE X,,Alternativos,29868.3
+55836,moderado,Headline XP Venture Capital 3 Feeder 1 FIP Multiestratégia,44466443000148.0,Alternativos,2332.35
+18073,moderado-conservador,VLGI Asset DI FIRF CP,47729760000106.0,Reserva de Liquidez,20324.26
+18073,moderado-conservador,Absolute Hedge FIC FIM,18860059000115.0,Multimercado,19847.28
+18073,moderado-conservador,Ibiuna Hedge ST Advisory FIC FIM,30493349000173.0,Multimercado,26567.13
+18073,moderado-conservador,Claritas Institucional Feeder II FIC FIM,43761750000199.0,Multimercado,5288.17
+18073,moderado-conservador,XP Macro FIM,23922063000109.0,Multimercado,31427.25
+18073,moderado-conservador,Absolute Vertex Advisory FIC FIM,28947266000165.0,Multimercado,9993.71
+18073,moderado-conservador,Bahia AM Long Biased FIC FIM,23732231000195.0,Renda Variável,16782.09
+18073,moderado-conservador,Brasil Capital 30 Advisory FIC FIA,34430477000129.0,Renda Variável,15568.3
+7826,moderado-conservador,Trend DI FIC FIRF Simples,45278833000157.0,Renda Fixa Pós-Fixada,12897.03
+7826,moderado-conservador,VLGI Asset DI FIRF CP,47729760000106.0,Reserva de Liquidez,59158.69
+7826,moderado-conservador,Trend Pós-Fixado FIC FIRF Simples,26559284000144.0,Renda Fixa Pós-Fixada,32104.99
+2429,moderado,VLGI Asset DI FIRF CP,47729760000106.0,Reserva de Liquidez,13061.73
+2429,moderado,Vinland RF Ativo Advisory LP FIC FI,34687441000125.0,Renda Fixa Pós-Fixada,5016.8
+2429,moderado,Riza Lotus Plus Advisory FIC FIRF REF DI CP,43917493000131.0,Renda Fixa Pós-Fixada,964.66
+2429,moderado,Trend DI FIC FIRF Simples,45278833000157.0,Renda Fixa Pós-Fixada,444.51
+66740,moderado-conservador,Trend DI FIC FIRF Simples,45278833000157.0,Renda Fixa Pós-Fixada,1493.86
+66740,moderado-conservador,Vinland RF Ativo Advisory LP FIC FI,34687441000125.0,Renda Fixa Pós-Fixada,4633.45
+66740,moderado-conservador,Trend Investback FIC FIRF Simples,,Renda Fixa Pós-Fixada,293.41
+66740,moderado-conservador,VLGI Asset DI FIRF CP,47729760000106.0,Reserva de Liquidez,35791.72
+66740,moderado-conservador,Ibiuna Long Short Advisory FIC FIM,29732926000153.0,Multimercado,4359.64
+66740,moderado-conservador,Claritas Long Short Advisory FIC FIM,27944406000189.0,Multimercado,1681.82
+66740,moderado-conservador,Absolute Hedge FIC FIM,18860059000115.0,Multimercado,2513.67
+66740,moderado-conservador,Kinea Atlas II FIM,29762315000158.0,Multimercado,1669.57
+66740,moderado-conservador,Giant Darius Advisory FIC FIM,41075713000100.0,Multimercado,1615.64
+66740,moderado-conservador,Occam Equity Hedge Advisory FIC FIM,38267707000131.0,Multimercado,4134.03
+6777,moderado-conservador,Trend Investback FIC FIRF Simples,,Renda Fixa Pós-Fixada,1567.54
+6777,moderado-conservador,Polo Crédito Corporativo Advisory FIRF CP LP,31455879000190.0,Renda Fixa Pós-Fixada,218567.82
+6777,moderado-conservador,Vinland RF Ativo Advisory LP FIC FI,34687441000125.0,Renda Fixa Pós-Fixada,19054.26
+6777,moderado-conservador,VLGI Asset DI FIRF CP,47729760000106.0,Reserva de Liquidez,40947.27
+6777,moderado-conservador,ASA Hedge FIC FIM,20458815000126.0,Multimercado,20820.84
+60648,,Trend Investback FIC FIRF Simples,,Renda Fixa Pós-Fixada,201.82
+60648,,Vinland RF Ativo Advisory LP FIC FI,34687441000125.0,Renda Fixa Pós-Fixada,42057.38
+60648,,SulAmérica Excellence FIRF CP,4899128000190.0,Renda Fixa Pós-Fixada,19330.05
+60648,,VLGI Asset DI FIRF CP,47729760000106.0,Reserva de Liquidez,13117.86
+60648,,Trend DI FIC FIRF Simples,45278833000157.0,Renda Fixa Pós-Fixada,447.92
+60648,,ASA Hedge FIC FIM,20458815000126.0,Multimercado,14282.4
+55101,moderado,SulAmérica Excellence FIRF CP,4899128000190.0,Renda Fixa Pós-Fixada,13047.7
+55101,moderado,Vinland RF Ativo Advisory LP FIC FI,34687441000125.0,Renda Fixa Pós-Fixada,1118.02
+55101,moderado,VLGI Asset DI FIRF CP,47729760000106.0,Reserva de Liquidez,30226.75
+55101,moderado,Trend DI FIC FIRF Simples,45278833000157.0,Renda Fixa Pós-Fixada,6360.32
+55101,moderado,Verde AM X60 Advisory FIC FIM,31403590000127.0,Multimercado,56673.46
+55101,moderado,Occam Retorno Absoluto Advisory FIC FIM,34475592000110.0,Multimercado,11333.43
+55101,moderado,Kadima II FIC FIM,9441308000147.0,Multimercado,4797.53
+55101,moderado,Indie FIC FIA,17335646000122.0,Renda Variável,22693.61
+55101,moderado,Western Asset US Index 500 FIM,17453850000148.0,Internacional,4875.34
+55101,moderado,Trend High Yield Americano FIM,37396932000105.0,Internacional,7338.23
+58230,moderado-conservador,VLGI Asset DI FIRF CP,47729760000106.0,Reserva de Liquidez,94684.01
+58230,moderado-conservador,Trend DI FIC FIRF Simples,45278833000157.0,Renda Fixa Pós-Fixada,328.11
+58230,moderado-conservador,XP Special Opportunities FIP Classe A - Trend PE VIII FIC FIRF Simples,,Alternativos,56924.84
+58230,moderado-conservador,XP Special Opportunities FIP Multiestratégia,43120744000152.0,Alternativos,19303.88
+58230,moderado-conservador,Headline XP VC 3 FIP Multiestratégia Classe A - Trend PE X,,Alternativos,24886.81
+58230,moderado-conservador,XP Crédito Agro - XPAG11,,Renda Variável,50000.0
+58230,moderado-conservador,Headline XP Venture Capital 3 Feeder 1 FIP Multiestratégia,44466443000148.0,Alternativos,1943.62
+58230,moderado-conservador,Aqua Capital PE Agro FIP Multiestratégia 7,44544223000195.0,Alternativos,3416.05
+58230,moderado-conservador,Aqua Capital PE Agro FIP Multiestratégia 7 Classe A - Trend,,Alternativos,27982.11
+46744,moderado-agressivo,Vinland RF Ativo Advisory LP FIC FI,34687441000125.0,Renda Fixa Pós-Fixada,5514.18
+46744,moderado-agressivo,VLGI Asset DI FIRF CP,47729760000106.0,Reserva de Liquidez,8268.82
+46744,moderado-agressivo,Ibiuna Credit FIC FIM CP,37310657000165.0,Renda Fixa Pós-Fixada,4877.86
+46744,moderado-agressivo,Riza Lotus Plus Advisory FIC FIRF REF DI CP,43917493000131.0,Renda Fixa Pós-Fixada,1103.32
+46744,moderado-agressivo,Trend DI FIC FIRF Simples,45278833000157.0,Renda Fixa Pós-Fixada,103.78
+46744,moderado-agressivo,ARX Elbrus Advisory FIC INFRA RF,32319627000104.0,Renda Fixa Inflação,1127.73
+46744,moderado-agressivo,Capitânia INFRA 90 FIC INFRA RF CP,26605199000175.0,Renda Fixa Inflação,1010.05
+46744,moderado-agressivo,Giant Darius Advisory FIC FIM,41075713000100.0,Multimercado,520.02
+46744,moderado-agressivo,Absolute Hedge FIC FIM,18860059000115.0,Multimercado,992.14
+46744,moderado-agressivo,Kinea Atlas II FIM,29762315000158.0,Multimercado,1084.99
+46744,moderado-agressivo,Kadima II FIC FIM,9441308000147.0,Multimercado,684.01
+46744,moderado-agressivo,Occam Retorno Absoluto Advisory FIC FIM,34475592000110.0,Multimercado,2817.81
+46744,moderado-agressivo,Vinland Macro Advisory FIC FIM,28581109000189.0,Multimercado,2005.84
+46744,moderado-agressivo,ARX Income FIC FIA,3168062000103.0,Renda Variável,2458.49
+46744,moderado-agressivo,Trend High Yield Americano FIM,37396932000105.0,Internacional,1435.28
+47497,moderado-conservador,AZ Quest Termo FIRF,22681798000117.0,Renda Fixa Pós-Fixada,14693.56
+47497,moderado-conservador,VLGI Asset DI FIRF CP,47729760000106.0,Reserva de Liquidez,26434.69
+47497,moderado-conservador,Ibiuna Credit FIC FIM CP,37310657000165.0,Renda Fixa Pós-Fixada,27028.37
+47497,moderado-conservador,Riza Lotus Plus Advisory FIC FIRF REF DI CP,43917493000131.0,Renda Fixa Pós-Fixada,6710.22
+47497,moderado-conservador,ARX Elbrus Advisory FIC INFRA RF,32319627000104.0,Renda Fixa Inflação,34501.07
+47497,moderado-conservador,Ibiuna Hedge ST Advisory FIC FIM,30493349000173.0,Multimercado,12231.32
+47497,moderado-conservador,XP Macro Plus FIC FIM,30068713000158.0,Multimercado,28267.23
+47497,moderado-conservador,ARX Income FIC FIA,3168062000103.0,Renda Variável,2252.72
+47497,moderado-conservador,Western Asset US Index 500 FIM,17453850000148.0,Internacional,1109.13
+47497,moderado-conservador,Trend High Yield Americano FIM,37396932000105.0,Internacional,4674.05
+47497,moderado-conservador,VBI Crédito - AVBI11,,Renda Variável,25000.0
+72740,moderado,VLGI Asset DI FIRF CP,47729760000106.0,Reserva de Liquidez,1040333.57
+72740,moderado,Trend Pós-Fixado FIC FIRF Simples,26559284000144.0,Renda Fixa Pós-Fixada,226529.57
+51239,moderado,VLGI Asset DI FIRF CP,47729760000106.0,Reserva de Liquidez,108770.05
+49232,moderado-conservador,VLGI Asset DI FIRF CP,47729760000106.0,Reserva de Liquidez,10241.84
+49232,moderado-conservador,Giant Zarathustra Advisory FIC FIM,35940266000107.0,Multimercado,69335.74
+32263,moderado-conservador,Riza Lotus FIRF Referenciado DI CP,36498670000127.0,Renda Fixa Pós-Fixada,230612.59
+32263,moderado-conservador,Riza Meyenii 360 Advisory FIC FIM CP,43508091000183.0,Renda Fixa Pós-Fixada,393472.53
+32263,moderado-conservador,AF Invest FIRF CP Geraes,9720734000110.0,Renda Fixa Pós-Fixada,208474.52
+32263,moderado-conservador,VLGI Asset DI FIRF CP,47729760000106.0,Reserva de Liquidez,1789129.03
+32263,moderado-conservador,Vinland RF Ativo Advisory LP FIC FI,34687441000125.0,Renda Fixa Pós-Fixada,114037.55
+32263,moderado-conservador,Trend DI FIC FIRF Simples,45278833000157.0,Renda Fixa Pós-Fixada,487.06
+32263,moderado-conservador,Vinland Macro Advisory FIC FIM,28581109000189.0,Multimercado,25931.89
+32263,moderado-conservador,Absolute Vertex Advisory FIC FIM,28947266000165.0,Multimercado,25957.06
+32263,moderado-conservador,Occam Retorno Absoluto Advisory FIC FIM,34475592000110.0,Multimercado,36027.35
+32263,moderado-conservador,Giant Zarathustra Advisory FIC FIM,35940266000107.0,Multimercado,15090.32
+32263,moderado-conservador,ARX Income FIC FIA,3168062000103.0,Renda Variável,1870.32
+32263,moderado-conservador,Western Asset US Index 500 FIM,17453850000148.0,Internacional,3955.06
+32263,moderado-conservador,PIMCO Income FIC FIM IE,23729512000199.0,Internacional,16161.14
+45848,moderado,Vinland RF Ativo Advisory LP FIC FI,34687441000125.0,Renda Fixa Pós-Fixada,3455.55
+45848,moderado,VLGI Asset DI FIRF CP,47729760000106.0,Reserva de Liquidez,85748.73
+45848,moderado,Trend DI FIC FIRF Simples,45278833000157.0,Renda Fixa Pós-Fixada,117.72
+45848,moderado,Trend Pré-Fixado FIRF LP,31145851000156.0,Renda Fixa Pré-Fixada,4161.47
+45848,moderado,ARX Elbrus Advisory FIC INFRA RF,32319627000104.0,Renda Fixa Inflação,5604.31
+45848,moderado,Claritas Long Short Advisory FIC FIM,27944406000189.0,Multimercado,3404.41
+45848,moderado,Ibiuna Long Short Advisory FIC FIM,29732926000153.0,Multimercado,5845.35
+45848,moderado,Absolute Hedge FIC FIM,18860059000115.0,Multimercado,4536.25
+45848,moderado,Occam Equity Hedge Advisory FIC FIM,38267707000131.0,Multimercado,4468.87
+45848,moderado,Kinea Atlas II FIM,29762315000158.0,Multimercado,4497.33
+45848,moderado,Giant Darius Advisory FIC FIM,41075713000100.0,Multimercado,3263.32
+76497,moderado,XP Corporate Light FIRF CP LP,11046179000134.0,Renda Fixa Pós-Fixada,10665.14
+76497,moderado,Trend Investback FIC FIRF Simples,,Renda Fixa Pós-Fixada,122.9
+76497,moderado,VLGI Asset DI FIRF CP,47729760000106.0,Reserva de Liquidez,40667.84
+76497,moderado,Quantitas FIC FIM Mallorca,22918359000185.0,Multimercado,3196.91
+76497,moderado,Kapitalo K10 Advisory FIC FIM,33520968000106.0,Multimercado,3615.88
+76497,moderado,SUNO FIC FIA,46331231000189.0,,991.42
+76497,moderado,Western Asset FIA BDR Nivel I,19831126000136.0,Internacional,6692.05
+46168,moderado,Trend DI FIC FIRF Simples,45278833000157.0,Renda Fixa Pós-Fixada,390.17
+46168,moderado,VLGI Asset DI FIRF CP,47729760000106.0,Reserva de Liquidez,48395.44
+46168,moderado,Vinland RF Ativo Advisory LP FIC FI,34687441000125.0,Renda Fixa Pós-Fixada,10163.49
+46168,moderado,CLUBE DE INVESTIMENTO ATLANTIS,34432749000120.0,Renda Variável,64340.67
+56165,moderado-agressivo,Vinland RF Ativo Advisory LP FIC FI,34687441000125.0,Renda Fixa Pós-Fixada,33509.3
+56165,moderado-agressivo,XP Debêntures Incentivadas Hedge CP FIC FIM LP,26803233000116.0,Renda Fixa Pós-Fixada,25656.42
+56165,moderado-agressivo,VLGI Asset DI FIRF CP,47729760000106.0,Reserva de Liquidez,73679.12
+56165,moderado-agressivo,Riza Lotus Plus Advisory FIC FIRF REF DI CP,43917493000131.0,Renda Fixa Pós-Fixada,3165.81
+56165,moderado-agressivo,Riza Daikon Advisory FIC FIM CP,36436794000188.0,Renda Fixa Pós-Fixada,577.96
+56165,moderado-agressivo,Trend Investback FIC FIRF Simples,,Renda Fixa Pós-Fixada,68.88
+56165,moderado-agressivo,Trend Pré-Fixado FIRF LP,31145851000156.0,Renda Fixa Pré-Fixada,1681.48
+56165,moderado-agressivo,ARX Elbrus Advisory FIC INFRA RF,32319627000104.0,Renda Fixa Inflação,12570.8
+56165,moderado-agressivo,Claritas Long Short Advisory FIC FIM,27944406000189.0,Multimercado,9023.57
+56165,moderado-agressivo,Ibiuna Long Short Advisory FIC FIM,29732926000153.0,Multimercado,18945.74
+56165,moderado-agressivo,Gávea Macro Advisory FIC FIM,32240637000141.0,Multimercado,13458.61
+56165,moderado-agressivo,Kapitalo Kappa Advisory FIC FIM,26978199000110.0,Multimercado,17695.01
+56165,moderado-agressivo,Occam Retorno Absoluto Advisory FIC FIM,34475592000110.0,Multimercado,14782.03
+56165,moderado-agressivo,Giant Zarathustra Advisory FIC FIM,35940266000107.0,Multimercado,9803.8
+56165,moderado-agressivo,Giant Sigma Advisory FIC FIM,34186116000189.0,Multimercado,6345.6
+56165,moderado-agressivo,Vinland Macro Advisory FIC FIM,28581109000189.0,Multimercado,1995.1
+56165,moderado-agressivo,Indie FIC FIA,17335646000122.0,Renda Variável,12238.51
+56165,moderado-agressivo,Western Asset US Index 500 FIM,17453850000148.0,Internacional,5112.06
+56165,moderado-agressivo,Trend High Yield Americano FIM,37396932000105.0,Internacional,7532.75
+78059,moderado,VLGI Asset DI FIRF CP,47729760000106.0,Reserva de Liquidez,59031.72
+82356,conservador,Vinland RF Ativo Advisory LP FIC FI,34687441000125.0,Renda Fixa Pós-Fixada,12355.04
+82356,conservador,XP Debêntures Incentivadas Hedge CP FIC FIM LP,26803233000116.0,Renda Fixa Pós-Fixada,11528.58
+82356,conservador,Trend DI FIC FIRF Simples,45278833000157.0,Renda Fixa Pós-Fixada,280.52
+82356,conservador,VLGI Asset DI FIRF CP,47729760000106.0,Reserva de Liquidez,290474.98
+82356,conservador,Western Asset RF Ativo FI,3499367000190.0,Renda Fixa Pós-Fixada,13264.18
+82356,conservador,ARX Elbrus Advisory FIC INFRA RF,32319627000104.0,Renda Fixa Inflação,10433.69
+82356,conservador,Occam Retorno Absoluto Advisory FIC FIM,34475592000110.0,Multimercado,15105.02
+82356,conservador,Giant Darius Advisory FIC FIM,41075713000100.0,Multimercado,4129.57
+82356,conservador,Gávea Macro Advisory FIC FIM,32240637000141.0,Multimercado,13392.84
+82356,conservador,Ibiuna Long Short Advisory FIC FIM,29732926000153.0,Multimercado,19670.46
+82356,conservador,Kapitalo K10 Advisory FIC FIM,33520968000106.0,Multimercado,4514.51
+82356,conservador,Western Asset FIA BDR Nivel I,19831126000136.0,Internacional,8244.22
+73707,moderado-agressivo,VLGI Asset DI FIRF CP,47729760000106.0,Reserva de Liquidez,1674.48
+20921,agressivo,Iridium Apollo FIC FIRF CP LP,26978438000132.0,Renda Fixa Pós-Fixada,20237.32
+20921,agressivo,VLGI Asset DI FIRF CP,47729760000106.0,Reserva de Liquidez,3423.66
+32449,moderado-conservador,VLGI Asset DI FIRF CP,47729760000106.0,Reserva de Liquidez,903108.18
+32449,moderado-conservador,Capitânia Premium 45 FIC FIRC CP LP,20146294000171.0,Renda Fixa Pós-Fixada,129366.0
+32449,moderado-conservador,Ibiuna Credit FIC FIM CP,37310657000165.0,Renda Fixa Pós-Fixada,129336.13
+32449,moderado-conservador,Riza Lotus Plus Advisory FIC FIRF REF DI CP,43917493000131.0,Renda Fixa Pós-Fixada,32394.08
+32449,moderado-conservador,Vinland RF Ativo Advisory LP FIC FI,34687441000125.0,Renda Fixa Pós-Fixada,323988.7
+32449,moderado-conservador,Selection RF High Yield FIC FIM CP Longo Prazo,34957512000162.0,Renda Fixa Pós-Fixada,32283.4
+32449,moderado-conservador,Capitânia INFRA 90 FIC INFRA RF CP,26605199000175.0,Renda Fixa Inflação,12524.64
+32449,moderado-conservador,Vinland Macro Advisory FIC FIM,28581109000189.0,Multimercado,32293.99
+32449,moderado-conservador,Occam Retorno Absoluto Advisory FIC FIM,34475592000110.0,Multimercado,22116.24
+32449,moderado-conservador,Kadima II FIC FIM,9441308000147.0,Multimercado,9254.25
+32449,moderado-conservador,CLUBE DE INVESTIMENTO ATLANTIS,34432749000120.0,Renda Variável,47406.04
+32449,moderado-conservador,Wellington Ventura Advisory FIA IE,35556444000192.0,Internacional,4653.03
+32449,moderado-conservador,PIMCO Income FIC FIM IE,23729512000199.0,Internacional,17834.2
+65547,moderado,CRI CSN CIMENTOS - FEV/2032,,,-1556.32
+49232,moderado-conservador,DEB UNIDAS - SET/2031,,,-3393.11
+49232,moderado-conservador,LF BANCO BRADESCO S/A - AGO/20,,,2980.27
+6777,moderado-conservador,LFT,,Renda Fixa Pós-Fixada,58033.74
+6777,moderado-conservador,LFT,,Renda Fixa Pós-Fixada,11442.41
+6777,moderado-conservador,LFT,,Renda Fixa Pós-Fixada,17294.94
+6777,moderado-conservador,NTN-B,,Renda Fixa Inflação,10327.25
+60648,,LTN,,Renda Fixa Pré-Fixada,51108.31
+60648,,LFT,,Renda Fixa Pós-Fixada,59162.46
+60648,,NTNB PRINC,,Renda Fixa Inflação,17681.69
+60648,,NTNB PRINC,,Renda Fixa Inflação,19365.47
+46744,moderado-agressivo,LTN,,Renda Fixa Pré-Fixada,1332.05
+55836,moderado,VIVT3,,Renda Variável,-59.64
+18073,moderado-conservador,SAPR4,,Renda Variável,258.38
+18073,moderado-conservador,SAPR4,,Renda Variável,143.11
+6777,moderado-conservador,CMIG4,,Renda Variável,2.72
+6777,moderado-conservador,CMIG4,,Renda Variável,2.72
+60648,,BBAS3,,Renda Variável,59.84
+60648,,BBDC4,,Renda Variável,12.42
+60648,,ITSA4,,Renda Variável,7.14
+60648,,B3SA3,,Renda Variável,8.44
+60648,,CMIN3,,Renda Variável,10.88
+60648,,CMIG4,,Renda Variável,51.87
+60648,,CMIG4,,Renda Variável,47.45
+60648,,CMIG4,,Renda Variável,40.1
+60648,,WEGE3,,Renda Variável,0.45
+60648,,ITSA4,,Renda Variável,23.45
+60648,,ITSA4,,Renda Variável,13.64
+60648,,ITSA4,,Renda Variável,15.66
+60648,,CMIG4,,Renda Variável,47.45
+60648,,ITSA4,,Renda Variável,13.52
+60648,,CMIG4,,Renda Variável,51.87
+60648,,CMIG4,,Renda Variável,40.1
+60648,,BRAP4,,Renda Variável,11.62
+58230,moderado-conservador,VIVT3,,Renda Variável,-9.28
+58230,moderado-conservador,VIVT3,,Renda Variável,-63.45
+58230,moderado-conservador,VIVT3,,Renda Variável,-38.09
+58230,moderado-conservador,VIVT3,,Renda Variável,-2.89
+58230,moderado-conservador,VIVT3,,Renda Variável,-122.11
+58230,moderado-conservador,VIVT3,,Renda Variável,-76.39
+58230,moderado-conservador,VIVT3,,Renda Variável,-5.81
+58230,moderado-conservador,VIVT3,,Renda Variável,-4.82
+46744,moderado-agressivo,MYPK3,,Renda Variável,10.12
+46744,moderado-agressivo,ITSA4,,Renda Variável,2.59
+46744,moderado-agressivo,TUPY3,,Renda Variável,8.09
+46744,moderado-agressivo,ITSA4,,Renda Variável,5.73
+46744,moderado-agressivo,ITSA4,,Renda Variável,4.95
+46744,moderado-agressivo,ENBR3,,Renda Variável,61.62
+46744,moderado-agressivo,EGIE3,,Renda Variável,3.54
+72740,moderado,MOVI3,,Renda Variável,358.71
+72740,moderado,VIVT3,,Renda Variável,-182.48
+72740,moderado,VIVT3,,Renda Variável,-109.54
+72740,moderado,SAPR11,,Renda Variável,869.41
+56165,moderado-agressivo,RADL3,,Renda Variável,2.04
+56165,moderado-agressivo,RADL3,,Renda Variável,1.85
+56165,moderado-agressivo,ITSA3,,Renda Variável,2.06
+56165,moderado-agressivo,ITSA3,,Renda Variável,2.03
+56165,moderado-agressivo,ITSA3,,Renda Variável,2.35
+56165,moderado-agressivo,EGIE3,,Renda Variável,5.0
+73707,moderado-agressivo,BBAS3,,Renda Variável,5.08
+73707,moderado-agressivo,ITUB4,,Renda Variável,0.61
+73707,moderado-agressivo,TRPL4,,Renda Variável,9.03
+73707,moderado-agressivo,ITUB4,,Renda Variável,8.91
+73707,moderado-agressivo,EGIE3,,Renda Variável,3.75
+20921,agressivo,ITUB4,,Renda Variável,0.44
+20921,agressivo,ITUB4,,Renda Variável,6.01
+55836,moderado,BOVA11,,Renda Variável,27031.2
+55836,moderado,IVVB11,,Internacional,36592.0
+18073,moderado-conservador,HASH11,,Internacional,8316.0
+18073,moderado-conservador,OIBR3,,Renda Variável,181.9
+18073,moderado-conservador,RDOR3,,Renda Variável,2429.04
+18073,moderado-conservador,SAPR4,,Renda Variável,5632.0
+60648,,AERI3,,Renda Variável,413.0
+60648,,AMZO34,,Internacional,3234.69
+60648,,AURA33,,Internacional,4030.56
+60648,,AZUL4,,Renda Variável,6747.3
+60648,,B3SA3,,Renda Variável,2435.7
+60648,,BBAS3,,Renda Variável,7522.0
+60648,,BBDC4,,Renda Variável,9963.8
+60648,,BOVA11,,Renda Variável,19308.0
+60648,,BPAC11,,Renda Variável,1882.0
+60648,,BRAP4,,Renda Variável,2056.8
+60648,,CMIG4,,Renda Variável,5590.33
+60648,,CMIN3,,Renda Variável,3592.0
+60648,,CSAN3,,Renda Variável,1422.0
+60648,,ELET3,,Renda Variável,51359.0
+60648,,ELET6,,Renda Variável,12179.7
+60648,,ITSA4,,Renda Variável,2834.58
+60648,,MGLU3,,Renda Variável,10053.4
+60648,,NUBR33,,Renda Variável,1421.25
+60648,,PETR3,,Renda Variável,1172.25
+60648,,PETR4,,Renda Variável,30134.0
+60648,,PRIO3,,Renda Variável,1897.2
+60648,,RAIZ4,,Renda Variável,1757.0
+60648,,RRRP3,,Renda Variável,11708.31
+60648,,SMAL11,,Renda Variável,8661.0
+60648,,USIM5,,Renda Variável,1324.0
+60648,,VALE3,,Renda Variável,16886.1
+60648,,VIIA3,,Renda Variável,5533.31
+60648,,WEGE3,,Renda Variável,411.9
+46168,moderado,IVVB11,,Internacional,10977.6
+46168,moderado,NASD11,,Internacional,4595.0
+73707,moderado-agressivo,AURE3,,Renda Variável,331.43
+73707,moderado-agressivo,BBAS3,,Renda Variável,639.37
+73707,moderado-agressivo,CPLE6,,Renda Variável,1323.08
+73707,moderado-agressivo,EGIE3,,Renda Variável,1034.54
+73707,moderado-agressivo,ITUB4,,Renda Variável,944.8
+73707,moderado-agressivo,KLBN11,,Renda Variável,927.16
+73707,moderado-agressivo,TIMS3,,Renda Variável,1061.57
+73707,moderado-agressivo,TRPL4,,Renda Variável,327.15
+20921,agressivo,ASAI3,,Renda Variável,385.5
+20921,agressivo,EQTL3,,Renda Variável,486.72
+20921,agressivo,HYPE3,,Renda Variável,405.6
+20921,agressivo,IGTI11,,Renda Variável,465.84
+20921,agressivo,ITUB4,,Renda Variável,643.14
+20921,agressivo,SMTO3,,Renda Variável,395.68
+20921,agressivo,SOMA3,,Renda Variável,455.27
+20921,agressivo,SUZB3,,Renda Variável,380.97
+20921,agressivo,VALE3,,Renda Variável,159.22
+20921,agressivo,VAMO3,,Renda Variável,466.9
+55836,moderado,Capitânia Prev Advisory Icatu FIRF CP,26498249000162.0,Renda Fixa Pós-Fixada,138260.77
+18073,moderado-conservador,Vinland RF Ativo XP Seg Prev FICFI,41866348000143.0,Renda Fixa Pós-Fixada,75943.7
+18073,moderado-conservador,ARX SulAmérica K2 Inflação Curta Prev FIC FIM CP,33701805000111.0,Renda Fixa Inflação,93394.95
+18073,moderado-conservador,Capitânia Prev Advisory XP Seg FIC FIRF CP,32319658000157.0,Renda Fixa Pós-Fixada,93719.99
+18073,moderado-conservador,Vinland Macro Advisory 2 XP Seg Prev FIC FIM,42718410000112.0,Multimercado,64216.25
+51239,moderado,Capitânia Prev Advisory XP Seg FIC FIRF CP,32319658000157.0,Renda Fixa Pós-Fixada,1684212.81
+51239,moderado,Capitânia Prev Advisory XP Seg FIC FIRF CP,32319658000157.0,Renda Fixa Pós-Fixada,874864.13
+51239,moderado,Kinea Xtr XP Seg Prev FIC FIM,32864403000175.0,Multimercado,134601.03
+51239,moderado,Kadima XP Seg Prev FIE FIC FIM,30898110000183.0,Multimercado,95734.39
+51239,moderado,XP Horizonte XP Seg FIC FIRF Prev,32064950000176.0,Renda Fixa Pós-Fixada,598370.55
+51239,moderado,Occam XP Seg Prev FIC FIM,32312361000160.0,Multimercado,194647.42
+49232,moderado-conservador,Capitânia Prev Advisory XP Seg FIC FIRF CP,32319658000157.0,Renda Fixa Pós-Fixada,248911.34
+76497,moderado,Capitânia Prev Advisory Icatu FIRF CP,26498249000162.0,Renda Fixa Pós-Fixada,24019.06
+65547,moderado,CITI iSTOXX Ações Globais - Jump Note Com Retorno Mínimo - 5 anos - 31.01.2020,,Alternativos,30607.4134
+65547,moderado,BNP Índice Fundos Internacionais Morningstar - Entrada Otimizada 5y - 31.01.2020,,Alternativos,29000.0
+65547,moderado,MS MAP Trend - Bidirecional Alavancado - 5 anos - 30.04.2020,,Alternativos,121901.2289
+65547,moderado,XP Ouro: Dobro ou Alta Limitada - 5 anos - 29.06.2020,,Alternativos,30780.8918
+65547,moderado,XP Man Fundo Multimercado - IPCA + Alta Ilimitada - 5y - 29.07.2021,,Alternativos,56791126
+65547,moderado,XP 1x1 MAN Multimercado - IPCA + Alta Ilimitada - 5y - 28.04.2022,,Alternativos,550471.6793
+55836,moderado,CITI iSTOXX Ações Globais - Jump Note Com Retorno Mínimo - 5 anos - 17.10.2019,,Alternativos,21420.2384
+55836,moderado,BNP Índice Fundos Internacionais Morningstar - Entrada Otimizada 5y - 02.12.2019,,Alternativos,37000.0
+55836,moderado,CITI iSTOXX Ações Globais - Jump Note Com Retorno Mínimo - 5 anos - 06.01.2020,,Alternativos,18076.3213
+55836,moderado,GS Índice de Commodities Long & Short - 5y- Taxa Fixa + Alavancagem - 06.01.2020,,Alternativos,51405.7374
+55836,moderado,"CS Saúde Digital - Taxa Fixa + Alta - 5,5 anos - 26.02.2021",,Alternativos,45173.0502
+18073,moderado-conservador,MS Índice Morgan Stanley Ibovespa TOP 10 - 5 anos - 19.02.2019,,Alternativos,20000.0
+18073,moderado-conservador,XP Bolsa Americana - Taxa Fixa ou Alta Ilimitada - 5y - 28.07.2022,,Alternativos,35995.0673
+7826,moderado-conservador,BNP Índice Fundos Internacionais Morningstar - Entrada Otimizada 5y - 10.02.2020,,Alternativos,9000.0
+7826,moderado-conservador,XP Autocall Metaverso - Obs. SEM - 5y - 23.02.2022,,Alternativos,28600.0
+6777,moderado-conservador,"MS Morgan Stanley Global Opportunity: Alta Alavancada - 3,5 anos - 16.10.2020",,Alternativos,10000.0
+6777,moderado-conservador,XP Bolsa Americana - Taxa Fixa ou Alta Ilimitada - 5y - 12.08.2022,,Alternativos,22197.5378
+60648,,XP Dólar - Bidirecional - 2y - 28.09.2022,,Alternativos,10240.3254
+55101,moderado,XP Bolsa Americana - Taxa Fixa ou Alta Ilimitada - 5y - 28.07.2022,,Alternativos,120872.9465
+58230,moderado-conservador,CITI iSTOXX Ações Globais - Jump Note Com Retorno Mínimo - 5 anos - 02.12.2019,,Alternativos,37262.3997
+58230,moderado-conservador,BNP Índice Fundos Internacionais Morningstar - Entrada Otimizada 5y - 02.12.2019,,Alternativos,35000.0
+58230,moderado-conservador,CITI iSTOXX Ações Globais - Jump Note Com Retorno Mínimo - 5 anos - 31.01.2020,,Alternativos,15831.4207
+58230,moderado-conservador,MS MAP Trend - Bidirecional Alavancado - 5 anos - 31.01.2020,,Alternativos,21184.2932
+58230,moderado-conservador,BNP Índice Fundos Internacionais Morningstar - Entrada Otimizada 5y - 31.01.2020,,Alternativos,15000.0
+58230,moderado-conservador,"CS Saúde Digital - Taxa Fixa + Alta - 5,5 anos - 14.05.2021",,Alternativos,32041.9536
+58230,moderado-conservador,XP Man Fundo Multimercado - IPCA + Alta Ilimitada - 5y - 29.07.2021,,Alternativos,56791126
+58230,moderado-conservador,XP MAN Multimercado - IPCA + Alta Alavancada - 5y - 29.06.2022,,Alternativos,20456.2032
+47497,moderado-conservador,XP Man Fundo Multimercado - IPCA + Alta Ilimitada - 5y - 20.08.2021,,Alternativos,11266.3573
+72740,moderado,XP Autocall Metaverso - Obs. SEM - 5y - 23.02.2022,,Alternativos,300000.0
+60648,,CPTS11,,Renda Variável,2629.55
+60648,,RBRR11,,Renda Variável,2742.08
+60648,,VGIR11,,Renda Variável,955.0
+60648,,XPML11,,Renda Variável,2107.6
+60648,,KNCR11,,Renda Variável,5887.2
+60648,,LVBI11,,Renda Variável,1667.52
+60648,,MCCI11,,Renda Variável,1871.1
+60648,,HGRU11,,Renda Variável,3691.2
+60648,,XPCI11,,Renda Variável,5233.15
+60648,,BRCR11,,Renda Variável,3150.6
+60648,,RBRF11,,Renda Variável,1695.06
+60648,,MXRF11,,Renda Variável,839.16
+60648,,HGLG11,,Renda Variável,8139.6
+60648,,PVBI11,,Renda Variável,4536.48
+60648,,BRCO11,,Renda Variável,2557.8
+60648,,KNRI11,,Renda Variável,8807.5
+60648,,HGBS11,,Renda Variável,893.5
+46168,moderado,KNCR11,,Renda Variável,1962.4
+46168,moderado,IRDM11,,Renda Variável,1762.74
+46168,moderado,HGRE11,,Renda Variável,1657.2
+46168,moderado,HGRU11,,Renda Variável,2307.0
+46168,moderado,BTLG11,,Renda Variável,1851.2
+46168,moderado,KNRI11,,Renda Variável,2032.5
+55836,moderado,BOVA11,,Renda Variável,0.0
+55836,moderado,BOVA11,,Renda Variável,-631.4
+55836,moderado,BOVA11,,Renda Variável,2271.27
+55836,moderado,IVVB11,,Internacional,0.0
+55836,moderado,IVVB11,,Internacional,1902.41
+55836,moderado,IVVB11,,Internacional,-473.36
+55836,moderado,IVVB11,,Internacional,396.15
+65547,moderado,Saldo em Conta,,Saldo em Conta,24.57
+55836,moderado,Saldo em Conta,,Saldo em Conta,1.8
+18073,moderado-conservador,Saldo em Conta,,Saldo em Conta,0.0
+7826,moderado-conservador,Saldo em Conta,,Saldo em Conta,0.0
+2429,moderado,Saldo em Conta,,Saldo em Conta,0.0
+66740,moderado-conservador,Saldo em Conta,,Saldo em Conta,17.79
+6777,moderado-conservador,Saldo em Conta,,Saldo em Conta,0.0
+60648,,Saldo em Conta,,Saldo em Conta,79.89
+55101,moderado,Saldo em Conta,,Saldo em Conta,291.71
+58230,moderado-conservador,Saldo em Conta,,Saldo em Conta,0.0
+46744,moderado-agressivo,Saldo em Conta,,Saldo em Conta,0.0
+47497,moderado-conservador,Saldo em Conta,,Saldo em Conta,0.06
+72740,moderado,Saldo em Conta,,Saldo em Conta,389.03
+51239,moderado,Saldo em Conta,,Saldo em Conta,0.0
+49232,moderado-conservador,Saldo em Conta,,Saldo em Conta,84351.33
+32263,moderado-conservador,Saldo em Conta,,Saldo em Conta,0.0
+45848,moderado,Saldo em Conta,,Saldo em Conta,0.0
+76497,moderado,Saldo em Conta,,Saldo em Conta,0.0
+46168,moderado,Saldo em Conta,,Saldo em Conta,14.8
+56165,moderado-agressivo,Saldo em Conta,,Saldo em Conta,64.69
+78059,moderado,Saldo em Conta,,Saldo em Conta,0.0
+82356,conservador,Saldo em Conta,,Saldo em Conta,0.0
+73707,moderado-agressivo,Saldo em Conta,,Saldo em Conta,121.93
+20921,agressivo,Saldo em Conta,,Saldo em Conta,3.65
+32449,moderado-conservador,Saldo em Conta,,Saldo em Conta,0.0
