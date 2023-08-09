@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 from sqlalchemy import create_engine
 import os
 
@@ -9,11 +10,11 @@ DATABASE_URL = os.environ.get('DATABASE_URL')
 def load_and_push_data(engine):
     # Carregar os dados dos arquivos CSV e Excel
 
-    fake_position_path = os.environ.get('fake_position_path')
-    fake_allocation_path = os.environ.get('fake_allocation_path')
+    fake_position_path = os.environ.get('FAKE_POSITION_PATH')
+    fake_allocation_path = os.environ.get('FAKE_ALLOCATION_PATH')
 
-    df_posicoes = pd.read_csv('fake_position_path')
-    df_politicas = pd.read_excel('fake_allocation_path')
+    df_posicoes = pd.read_csv(fake_position_path)
+    df_politicas = pd.read_excel(fake_allocation_path)
     # dropando registros sem account_suitability ou class_name.
 
     df_posicoes.dropna(subset=['account_suitability', 'class_name'], inplace=True)
@@ -63,8 +64,8 @@ def load_and_push_data(engine):
 
 
     df_final.to_sql('distancia_euclidiana', engine, if_exists='replace', index=False)
-    df_positions.to_sql('positions', engine, if_exists='replace', index=False)
-    df_policies.to_sql('policies', engine, if_exists='replace', index=False)
+    df_posicoes.to_sql('posicoes', engine, if_exists='replace', index=False)
+    df_politicas.to_sql('politicas', engine, if_exists='replace', index=False)
 
 def main():
     # Criar um engine de banco de dados
