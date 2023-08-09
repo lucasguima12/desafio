@@ -44,13 +44,13 @@ Para instalar, execute os seguintes comandos no CMD:
 
 ## No Windows (Prompt de Comando):
 
-#### set fake_position_path=/path/to/fake_position.csv
-#### set fake_allocation_path=/path/to/fake_allocation_policies.xlsx
+#### set FAKE_POSITION_PATH=/path/to/fake_position.csv
+#### set FAKE_ALLOCATION_PATH=/path/to/fake_allocation_policies.xlsx
 
 ## No Linux ou MacOS (Terminal):
 
-#### export fake_position_path=/path/to/fake_position.csv
-#### export fake_allocation_path=/path/to/fake_allocation_policies.xlsx
+#### export FAKE_POSITION_PATH=/path/to/fake_position.csv
+#### export FAKE_ALLOCATION_PATH=/path/to/fake_allocation_policies.xlsx
 
 - Substitua /path/to/fake_position.csv e /path/to/fake_allocation_policies.xlsx pelos caminhos reais dos seus arquivos.
 
