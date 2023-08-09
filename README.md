@@ -5,8 +5,8 @@
 ## Index
 
 - [Pré-requisitos](#Pré-requisitos)
-- [Configuração](#Configuração)
 - [Instalação](#Instalação)
+- [Configuração](#Configuração)
 - [Uso](#Uso)  
 - [Gallery](#gallery)
 - [Credit/Acknowledgment](#creditacknowledgment)
@@ -24,6 +24,11 @@ Para instalar, execute os seguintes comandos no CMD:
    #### pip install openpyxl
 ### PostgreSQL 13 ou superior.
 [Link para instalação](https://www.postgresql.org/download/)
+
+## Instalação:
+
+#### git clone [link do repositorio]
+#### cd [nome do diretório do projeto]
 
 ## Configuração
 ## Configurando o Banco de Dados
@@ -53,11 +58,6 @@ Para instalar, execute os seguintes comandos no CMD:
 #### export FAKE_ALLOCATION_PATH=/path/to/fake_allocation_policies.xlsx
 
 - Substitua /path/to/fake_position.csv e /path/to/fake_allocation_policies.xlsx pelos caminhos reais dos seus arquivos.
-
-## Instalação:
-
-#### git clone [link do repositorio]
-#### cd [nome do diretório do projeto]
 
 ## Uso
 
