@@ -16,6 +16,10 @@
 ## Pré-requisitos
 ### Python 3.8 ou superior.
 [Link para instalação](https://www.python.org/downloads/)
+### Bibliotecas Pandas e SQLAlchemy
+Para instalar, execute os seguintes comandos no CMD:
+   pip install pandas
+   pip install sqlalchemy
 ### PostgreSQL 13 ou superior.
 [Link para instalação](https://www.postgresql.org/download/)
 
