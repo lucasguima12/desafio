@@ -30,7 +30,8 @@ Para instalar, execute os seguintes comandos no CMD:
 
 ## Configuração
 ## Configurando o Banco de Dados
-#### Antes de iniciar a aplicação, você deve configurar o banco de dados. Para isso, será necessário definir uma variável de ambiente chamada DATABASE_URL que aponte para a sua instância PostgreSQL.
+#### Antes de iniciar a aplicação, você deve configurar o banco de dados, criando um servidor PostgreSQL e criando um database. 
+#### Apos isto, será necessário definir uma variável de ambiente chamada DATABASE_URL que aponte para a sua instância PostgreSQL.
 
 ## No Windows (Prompt de Comando):
 
