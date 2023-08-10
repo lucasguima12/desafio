@@ -77,6 +77,7 @@ Após estar conectado, você pode listar todas as tabelas com:
 
 Para consultar os dados de uma tabela específica, por exemplo, nome_da_tabela, use:
 #### SELECT * FROM nome_da_tabela;
+3. Outra forma de acesso é pelo notebook Desafio.ipynb, precisando somente alterar o servidor do Postgre e os paths de cada arquivo csv.
 
 
 
