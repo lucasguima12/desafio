@@ -1,6 +1,6 @@
 # Sistema de Aderência de Política de Investimentos
 
-- Sistema para auxilia a gestora de carteira **** a determinar a aderência das contas dos clientes às suas respectivas políticas de investimentos.
+- Sistema para auxiliar a gestora de carteira **** a determinar a aderência das contas dos clientes às suas respectivas políticas de investimentos.
 
 ## Index
 
