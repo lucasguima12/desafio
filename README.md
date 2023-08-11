@@ -84,6 +84,10 @@ Para consultar os dados de uma tabela específica, por exemplo, nome_da_tabela, 
 
 Print:
 
+![print_1](print_1.png)
+
+![print_2](print_2.png)
+
 
 
 
